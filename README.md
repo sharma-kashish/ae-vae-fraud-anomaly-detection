@@ -42,8 +42,10 @@ The notebooks expect this layout, with paths taken relative to the notebook fold
 
 The datasets are not included because of their licences. Download them from Kaggle and place the zip files in `Dataset/`:
 
-* IEEE-CIS Fraud Detection: `ieee-fraud-detection.zip` (only `train_transaction.csv` and `train_identity.csv` are used)
-* Bank Account Fraud Dataset Suite (NeurIPS 2022): `dataset__NeurIIPS.zip` (only `Base.csv` is used)
+* IEEE-CIS Fraud Detection: https://www.kaggle.com/competitions/ieee-fraud-detection/data
+  Download `ieee-fraud-detection.zip`; only `train_transaction.csv` and `train_identity.csv` are used. You need to sign in to Kaggle and accept the competition rules before the download button appears.
+* Bank Account Fraud Dataset Suite (NeurIPS 2022): https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
+  Save the download as `dataset__NeurIIPS.zip`; only `Base.csv` is used.
 
 ## Environment
 
